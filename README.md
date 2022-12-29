@@ -8,4 +8,4 @@ I have developed a wide range of apps that allow people to contribute data to sc
 I am constantly seeking new ways to engage and educate people through my work, and I am always looking for opportunities to collaborate with others who share my vision.
 
 
-Thank you ChatGPT for generating this first person text. 
+( Thank you ChatGPT for generating this text.  In the meanwhile i will continue to code...)
